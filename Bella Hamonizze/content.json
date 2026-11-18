@@ -1,0 +1,105 @@
+{
+  "services": [
+    {
+      "name": "Lentes de contato dentais e facetas em resina",
+      "title": "Lentes de contato dental em Criciúma",
+      "slug": "lentes-de-contato-dental-criciuma",
+      "description": "Planejamento para cuidar de manchas, espaços entre os dentes e diferenças de formato.",
+      "indication": "Se uma mancha, um espaço entre os dentes ou o formato de um dente incomoda você, a avaliação é o momento de conversar sobre lentes e facetas em resina.",
+      "planning": "A dentista considera sua mordida, o formato do rosto e as características dos dentes. Cor, textura, volume e translucidez fazem parte desse planejamento, com atenção à preservação da estrutura dental.",
+      "aftercare": "Peça orientações de higiene e acompanhamento de acordo com o material escolhido e com a sua mordida.",
+      "question": "O que é considerado na escolha do formato?",
+      "answer": "O planejamento leva em conta o formato do rosto, a mordida e as características naturais dos seus dentes."
+    },
+    {
+      "name": "Clareamento dental",
+      "title": "Clareamento dental em Criciúma",
+      "slug": "clareamento-dental-criciuma",
+      "description": "Clareamento a laser ou com moldeiras personalizadas, conforme a avaliação da sua saúde bucal.",
+      "indication": "Quem deseja clarear a tonalidade dos dentes pode conversar com a equipe sobre as opções disponíveis e a indicação para o seu caso.",
+      "planning": "A avaliação da saúde bucal orienta a escolha entre a técnica a laser e o uso de moldeiras personalizadas. Conte à dentista como você percebe a cor dos seus dentes e se já sentiu sensibilidade.",
+      "aftercare": "Combine com a dentista os cuidados durante e depois do clareamento. Se usar moldeiras, peça as orientações específicas para o seu tratamento.",
+      "question": "Quais técnicas de clareamento a clínica oferece?",
+      "answer": "A clínica oferece clareamento a laser e com moldeiras personalizadas. A escolha é feita na avaliação."
+    },
+    {
+      "name": "Implantes dentários",
+      "title": "Implante dentário em Criciúma",
+      "slug": "implante-dentario-criciuma",
+      "description": "Uma opção para substituir dentes ausentes com próteses fixas sobre implantes.",
+      "indication": "A ausência de um ou mais dentes pode trazer dúvidas sobre a mastigação e a aparência do sorriso. A avaliação permite conversar sobre a possibilidade de uma prótese fixa sobre implante.",
+      "planning": "A dentista avalia suas necessidades de reabilitação e discute como a prótese pode se integrar aos demais dentes, considerando mastigação e aparência.",
+      "aftercare": "Converse com a equipe sobre os cuidados após cada etapa, a higiene da prótese e o acompanhamento indicado para você.",
+      "question": "Que tipo de prótese a clínica oferece sobre implante?",
+      "answer": "A clínica oferece próteses fixas sobre implantes para a substituição de dentes ausentes."
+    },
+    {
+      "name": "Próteses dentais",
+      "title": "Próteses dentárias em Criciúma",
+      "slug": "proteses-dentarias-criciuma",
+      "description": "Próteses fixas ou removíveis e restaurações indiretas em resina ou cerâmica.",
+      "indication": "Se você precisa substituir dentes ausentes ou quer entender as opções para restaurar um dente, a equipe pode avaliar quais alternativas fazem sentido para a sua boca.",
+      "planning": "A conversa inclui as opções fixas sobre dentes ou implantes, as removíveis e as restaurações indiretas em resina ou cerâmica. A indicação depende da avaliação individual.",
+      "aftercare": "Peça para a equipe mostrar como higienizar sua prótese e orientar o acompanhamento de acordo com o tipo escolhido.",
+      "question": "A clínica oferece próteses removíveis?",
+      "answer": "Sim. Além das removíveis, a clínica trabalha com próteses fixas sobre dentes ou implantes."
+    },
+    {
+      "name": "Tratamento de canal",
+      "slug": null,
+      "description": "Cuidado voltado à preservação do dente natural quando há indicação de tratar o canal."
+    },
+    {
+      "name": "Periodontia",
+      "slug": null,
+      "description": "Cuidado com as gengivas, com raspagem periodontal e gengivoplastia quando indicadas."
+    },
+    {
+      "name": "Cirurgia",
+      "slug": null,
+      "description": "Avaliação para extrações, inclusive dos sisos, com atenção ao seu conforto."
+    },
+    {
+      "name": "Clínica geral",
+      "slug": null,
+      "description": "Limpeza, restaurações e acompanhamento preventivo para cuidar da sua saúde bucal."
+    }
+  ],
+  "faq": [
+    ["Qual é o horário de atendimento?", "De segunda a sexta, das 9h às 18h. A clínica fecha aos sábados e domingos."],
+    ["Como marco minha consulta?", "Envie uma mensagem pelo WhatsApp ou ligue para (48) 99810-6119 e consulte os horários de avaliação."],
+    ["Vocês aceitam convênio?", "O atendimento é particular. A clínica não aceita convênios."],
+    ["Quais as formas de pagamento?", "Aceitamos cartão de crédito e débito, PIX e dinheiro. Não aceitamos cheque."],
+    ["Onde fica a clínica?", "Na Rua Antônio de Lucca, 82, sala térrea, no bairro Pio Corrêa, em Criciúma/SC, próxima à URC. O CEP é 88811-503."],
+    ["Lente de contato dental desgasta o dente?", "Na avaliação, peça à dentista que explique se o seu caso exige preparo do dente e quais alternativas podem preservar sua estrutura."],
+    ["Clareamento causa sensibilidade?", "Conte à dentista se você já sentiu sensibilidade. Na consulta, você pode esclarecer essa dúvida antes de escolher a técnica."],
+    ["Tem estacionamento?", "Consulte a equipe pelo WhatsApp antes da visita para confirmar as opções de estacionamento."],
+    ["Parcelam o tratamento?", "Consulte a equipe sobre as condições de pagamento para o seu planejamento."]
+  ],
+  "testimonials": [
+    ["Maria Nunes Cunha", "Lugar aconchegante, recebe a gente muito bem, vale a pena conhecer o trabalho delas. Amei. A minha dentista preferida!"],
+    ["Heloisa Batista Teza", "Profissionais humanos, dedicados e resolutivos! Tirei meu siso com a Dra. Caroline. Foi um atendimento perfeito, desde o agendamento, até o procedimento e o pós operatório. Eu recomendo a clínica Harmonizze!"],
+    ["Guilherme Hanoff", "A Dra. Caroline é, sem sombra de dúvidas, a melhor profissional da região. Pontual - nunca atrasou um atendimento - atenciosa, sempre bem humorada, cuidadosa com os procedimentos e, acima de tudo, honesta. Nunca ofereceu serviços supérfluos ou desnecessários. Recomendo a todos!"],
+    ["Carlos Simon", "Gente, nota 1.000! Indico a vocês a Dra. Marcela - super atenciosa. Uma baita de uma profissional! Não podia deixar de falar da Dra. Carol - super gente fina, muito simpática. Essa dupla vai longe!"]
+  ],
+  "pending": [
+    "[CONFIRMAR: número atual de avaliações] O levantamento fornecido menciona 64.",
+    "[CONFIRMAR: link da ficha no Google Maps] Verificar o endereço direto para as avaliações.",
+    "[CONFIRMAR antes de incluir AggregateRating] Manter a nota fora dos dados estruturados até revisar também a elegibilidade no Google.",
+    "[CONFIRMAR: autorização e origem dos depoimentos] Verificar permissão de cada pessoa, texto autorizado, atribuição e eventual nota individual antes de publicar nome, estrelas ou origem.",
+    "[CONFIRMAR: CRO-SC da Dra. Caroline] Verificar o registro das especialidades anunciadas.",
+    "[CONFIRMAR: CRO-SC da Dra. Marcela] Verificar o registro das especialidades anunciadas.",
+    "[CONFIRMAR: nome e CRO do responsável técnico] Confirmar também a inscrição da clínica no CRO-SC e quem responde por cada tratamento.",
+    "[CONFIRMAR: se harmonização orofacial é oferecida como tratamento] A menção no perfil profissional não constitui oferta.",
+    "[CONFIRMAR: enviar fotos reais] Consultório e recepção.",
+    "[CONFIRMAR: fotos individuais] Dra. Caroline e Dra. Marcela.",
+    "[CONFIRMAR: regras vigentes com a clínica e o CRO-SC] O CFO restringe a divulgação de imagens de diagnóstico e conclusão ao profissional executor e veda esse uso por clínicas/pessoas jurídicas. Manter as comparações institucionais ilustradas apenas com espaços reservados, mesmo com autorização do paciente.",
+    "[CONFIRMAR: se a avaliação é paga ou gratuita e quanto tempo dura]",
+    "[CONFIRMAR: resposta técnica da clínica] Desgaste no preparo para lentes de contato dentais.",
+    "[CONFIRMAR: resposta técnica da clínica] Sensibilidade durante e após o clareamento.",
+    "[CONFIRMAR: respostas técnicas] Revisar as indicações, o planejamento, os cuidados posteriores e as perguntas de cada página de tratamento com o profissional responsável.",
+    "[CONFIRMAR: estacionamento]",
+    "[CONFIRMAR: condições de parcelamento]",
+    "[CONFIRMAR: razão social e CNPJ da controladora] O número 50.201.489/0001-38 foi citado no levantamento e depende de validação da clínica."
+  ]
+}

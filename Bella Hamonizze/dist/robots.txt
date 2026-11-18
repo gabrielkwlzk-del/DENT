@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /README
+Sitemap: https://bellaharmonizze.com/sitemap.xml
